@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
 # 💫 About Me:
 Hi, I'm Jun! I'm currently studying a Bachelor of Artificial Intelligence at UTS and enjoy exploring how machine learning and software engineering can work together to build useful, real-world solutions. I like working on projects that combine data, AI, and application development, from building RAG-powered chatbots and data pipelines to creating predictive models that solve practical problems. I recently completed an IT internship at Advanced Spatial Technologies, where I worked on improving code maintainability and gaining experience applying software engineering practices in a professional environment. Outside of coursework, I'm always experimenting with new technologies, learning different approaches, and building projects to strengthen my skills in AI, data analytics, and full-stack development.<br>
 
